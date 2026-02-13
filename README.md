@@ -2,7 +2,7 @@
 ** Viensy Pérez 
 **Matrícula:** 20241203  
 
-## Descripción
+
 ## Descripción
 Repositorio individual para la práctica P1: ataque DHCP Starvation en la asignatura Seguridad de Redes.  
 Este ataque consiste en enviar múltiples solicitudes DHCP falsas con direcciones MAC aleatorias para agotar el pool de direcciones del servidor legítimo, impidiendo que los clientes obtengan una IP válida.
